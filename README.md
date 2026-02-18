@@ -113,6 +113,24 @@ API_KEY = "YOUR_API_KEY"
 
 ------------------------------------------------------------------------
 
+## How to Run the Project
+
+### 1. Data Preparation (Optional)
+
+Open and run:
+
+data_process/comments_cleaned.ipynb
+
+Note: The processed data is already included in the `data/` directory, so this step is optional.
+
+### 2. NLP Training & Analysis
+
+Open and run:
+
+data_process/comments_nlp.ipynb
+
+------------------------------------------------------------------------
+
 ## NLP Workflow
 
 1.  Fetch YouTube comments\
